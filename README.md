@@ -13,18 +13,18 @@ O jogo desafia o jogador a sobreviver o máximo de tempo possível enquanto enfr
 ## 💾 Como executar
 
 Clone o projeto e abra com o **GameMaker Studio**:
+
 git clone https://github.com/LuizVfer/SpaceShooter.git
 
 Ou jogue diretamente no navegador:
 
-👉 Jogar no itch.io
+👉 Jogar no itch.io : https://luizvfer.itch.io/spaceshooter
 
 🛠️ Tecnologias
 GameMaker Studio
-
 Linguagem GML (GameMaker Language)
 
 📌 Links
-🐙 Repositório: GitHub - LuizVfer/SpaceShooter
+🐙 Repositório: GitHub - https://github.com/LuizVfer/SpaceShooter
 
-🎮 Jogo online: itch.io - SpaceShooter
+🎮 Jogo online: https://luizvfer.itch.io/spaceshooter
