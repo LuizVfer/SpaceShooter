@@ -1,0 +1,2 @@
+
+sendo_destruido()
