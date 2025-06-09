@@ -13,8 +13,6 @@ O jogo desafia o jogador a sobreviver o máximo de tempo possível enquanto enfr
 ## 💾 Como executar
 
 Clone o projeto e abra com o **GameMaker Studio**:
-
-```bash
 git clone https://github.com/LuizVfer/SpaceShooter.git
 
 Ou jogue diretamente no navegador:
